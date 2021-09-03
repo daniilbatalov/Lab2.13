@@ -24,7 +24,6 @@ void MainWindow::on_getDirButton_clicked()
     {
         ui->treeView->header()->setSectionResizeMode(i, QHeaderView::ResizeToContents);
     }
-
 }
 
 
